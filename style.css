@@ -1,0 +1,43 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    text-align: left;
+    background-color: antiquewhite;
+}
+H1:hover{
+    background-color: aquamarine;
+}
+.container{
+    margin-left: 40%;
+    margin-right: 46%;
+    margin-top: 300px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    box-shadow: -8px -8px 11px black,
+                8px 8px 11px black;
+    border-radius: 15px;
+    justify-content: center;
+}
+.container input{
+    padding-bottom: 40px;
+    padding: 20px 20px;
+}
+
+.row1 button{
+    padding: 20px 20px;
+}
+.row2 button{
+    padding: 20px 20px;
+}
+.row3 button{
+    padding: 20px 20px;
+}
+.row4 button{
+    padding: 20px 20.9px;
+}
+
+
+
